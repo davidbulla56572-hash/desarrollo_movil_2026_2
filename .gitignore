@@ -1,0 +1,22 @@
+# Archivos locales de asistentes de IA
+.opencode/
+.claude/
+.cursor/
+.codex/
+.continue/
+.gemini/
+.windsurf/
+.roo/
+.aider*
+.agents/
+.github/copilot-instructions.md
+.github/agents/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+
+# Archivos generados de proyectos Android
+**/.idea/
+**/.gradle/
+**/build/
+**/local.properties
