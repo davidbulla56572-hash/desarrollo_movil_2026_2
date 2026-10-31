@@ -19,12 +19,6 @@ Este espacio está destinado exclusivamente a la consignación y revisión de lo
 
 ---
 
-## 📂 Estructura de Directorios
-
-Para facilitar la revisión por parte del docente, las carpetas de cada entrega están organizadas bajo la siguiente nomenclatura:
-
-> `{tema}_{tipo}_{fecha}_{semestre}`
-
 **Ejemplo de la estructura:**
 
 ```text
